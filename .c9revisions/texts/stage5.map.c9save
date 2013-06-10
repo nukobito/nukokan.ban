@@ -1,0 +1,2 @@
+{"ts":1370655761254,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"10,8\r\n##########\r\n#      ..#\r\n#    #$.##\r\n# $ $#  .#\r\n#@$ $   .#\r\n# $ $#$.##\r\n#    # ..#\r\n##########\r\n"]],"start1":0,"start2":0,"length1":0,"length2":102}]],"length":102}
+{"contributors":[],"silentsave":false,"ts":1370655752875,"patch":[[{"diffs":[[-1,"10,8\r\n"],[0,"####"]],"start1":0,"start2":0,"length1":10,"length2":4},{"diffs":[[0," ..#\r\n##########"],[-1,"\r\n"]],"start1":78,"start2":78,"length1":18,"length2":16}]],"length":94,"saved":false}
