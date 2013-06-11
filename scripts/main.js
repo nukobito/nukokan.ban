@@ -24,5 +24,4 @@ onload = function () {
         };
         core.start();
     } );
-    
 };
